@@ -52,11 +52,11 @@ Program ini terdiri dari beberapa sub-modul (menu/fungsi):
   bilangan dihapus dari BST (jangan sampai proses penghapusan memutus/merusak struktur BST). Jika tidak ditemukan, tampilkan bahwa 
   bilangan tidak ada dalam BST.
   
-  Apabila NOde Ditemukan
-  ![5  Tampilan Menghapus Node Bila Node Tidak Ditemukan](https://user-images.githubusercontent.com/66952269/84757418-53ba0a80-afee-11ea-957e-4835c14c7a83.png) 
+  Apabila Nde Ditemukan
+  ![5  Tampilan Menghapus Node Bila Node Ditemukan](https://user-images.githubusercontent.com/66952269/84758223-5ec16a80-afef-11ea-8962-9af37613f62a.png)
   
   Apabila Node Tidak Ditemukan
- ![5  Tampilan Menghapus Node](https://user-images.githubusercontent.com/66952269/84756479-0b4e1d00-afed-11ea-86b5-faaf6305540c.png)
+ ![5  Tampilan Menghapus Node Bila Node Tidak Ditemukan](https://user-images.githubusercontent.com/66952269/84758233-6123c480-afef-11ea-8b8e-55adbe7239b1.png)
   
   Pilihan 6 berfungsi untuk Menghapus seluruh isi BST (reset BST).
   ![6  Tampilan Reset (Menghapus Seluruh Isi BST)](https://user-images.githubusercontent.com/66952269/84756482-0be6b380-afed-11ea-8ca2-d360eacc0084.png)
