@@ -5,10 +5,14 @@ NIM   : 1910512013
 
 Kelas : A
 
+Mata Kuliah: Praktikum Struktur Data dan Algoritma
+
+Dosen Pengampu: Dr. Achmad Solichin, S.Kom, M.T.I
+
 E-mail: nailulufar@gmail.com
 
 # DESKRIPSI UMUM PROJECT
-Project ini dibuat sebagai pengganti UAS pada mata kuliah Praktikum Pengantar Struktur Data. Program ini merupakan Penerapan dari Binary Search Tree (BST) yang ditulis menggunakan bahasa C++ dengan spesifikasi sebagai berikut:      
+Project ini dibuat sebagai pengganti UAS pada mata kuliah Praktikum Struktur Data dan Algoritma. Program ini merupakan Penerapan dari Binary Search Tree (BST) yang ditulis menggunakan bahasa C++ dengan spesifikasi sebagai berikut:      
   1. Program dapat berupa tampilan GUI atau menu berbasis console / terminal.
   2. Data berupa bilangan bulat positif (integer).
   3. Program minimal terdiri dari sub-modul (menu/fungsi) untuk:
@@ -58,3 +62,27 @@ Program ini terdiri dari beberapa sub-modul (menu/fungsi):
   Pilihan x berfungsi untuk Keluar dari program
   
 # CARA PENGGUNAAN PROGRAM (INPUT/OUTPUT)
+Program ini berbentuk menu yang bisa dipilih, terdapat 11 pilihan pada program yang sudah dijelaskan pada bagian fitur program. 
+
+Cara menggunakan program ini hanya cukup memasukkan angka menu yang ingin dipilih.
+
+Pilih 1 untuk insert bilangan baru. Misalnya jika ingin menambahkan bilangan/node baru, masukkan angka 50 lalu tekan enter. Yang terjadi 
+adalah bilangan/node bernilai 50 dijadikan sebagai root dari pohon.
+
+Pilih 2,3,4 untuk menampilkan/mencetak BST secara Pre-Order, In-Order atau Post-Order
+
+Pilih 5 untuk menghapus bilangan/node dari BST. Misalnya jika ingin menghapus bilangan 50, maka masukkan angka 50 terlebih dahulu lalu tekan enter. Maka yang terjadi adalah bilangan 50 telah dihapus dari BST.
+
+Pilihan 6 untuk Menghapus seluruh isi BST (reset BST).
+
+Pilihan 7 berfungsi untuk menginput suatu bilangan dan mencarinya ke dalam BST. Jika bilangan ditemukan, tampilkan perkataan 
+“DITEMUKAN”   dan tampilkan juga simpul-simpul yang dilewati untuk menemukan bilangan tersebut. Jika tidak ditemukan, tampilkan 
+perkataan “TIDAK DITEMUKAN".
+
+Pilihan 8 untuk menghitung Node pada BST. Misalnya node yang terdapat pada BST ada 8 node.
+
+Pilihan 9 untuk menghitung Kedalaman BST.
+
+Pilihan A  untuk menampilkan nilai terbesar dan terkecil dari BST yang terbentuk. Misalnya node yang terdapat dalam BST ada 22, 80, 34,66, 90, 17. Saat memilih pilihan A maka muncul bahwa nilai tertinggi adalah 90 dan nilai terendah adalah 17.
+
+Pilihan x untuk Keluar dari program
