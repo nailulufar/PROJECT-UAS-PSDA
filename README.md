@@ -36,6 +36,7 @@ Project ini dibuat sebagai pengganti UAS pada mata kuliah Praktikum Struktur Dat
 Program ini terdiri dari beberapa sub-modul (menu/fungsi):
   
   Pilihan 1 berfungsi untuk insert bilangan baru ke dalam BST.
+  ![0Tampilan Awal Program](https://user-images.githubusercontent.com/66952269/84756152-a1ce0e80-afec-11ea-8eb7-8685a6630ae1.png)
   
   Pilihan 2 berfungsi untuk mencetak atau menampilkan BST secara Pre-Order.
   
