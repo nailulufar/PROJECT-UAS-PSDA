@@ -337,7 +337,7 @@ int main()
         printf("[8] Hitung Node pada Tree\n");
         printf("[9] Kedalaman Tree\n");
         printf("[A] Value Terbesar dan Terkecil pada Tree\n");
-        printf("[X] Keluar\n");
+        printf("[x] Keluar\n");
         printf("Pilihan Anda : ");
         scanf("%c",&pil);
         fflush(stdin); //mengosongkan buffering
