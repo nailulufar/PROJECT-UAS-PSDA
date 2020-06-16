@@ -34,78 +34,82 @@ Project ini dibuat sebagai pengganti UAS pada mata kuliah Praktikum Struktur Dat
 
 # FITUR-FITUR PROGRAM
 Program ini terdiri dari beberapa sub-modul (menu/fungsi):
-![0Tampilan Awal Program](https://user-images.githubusercontent.com/66952269/84756152-a1ce0e80-afec-11ea-8eb7-8685a6630ae1.png)
   
   Pilihan 1 berfungsi untuk insert bilangan baru ke dalam BST.
-  ![1  Tampilan Insert Bilangan](https://user-images.githubusercontent.com/66952269/84756459-05f0d280-afed-11ea-834a-94d834456bc9.png)
   
   Pilihan 2 berfungsi untuk mencetak atau menampilkan BST secara Pre-Order.
-  ![2  Tampilan Pre-Order](https://user-images.githubusercontent.com/66952269/84756467-07ba9600-afed-11ea-92fe-3f417ca46391.png)
   
   Pilihan 3 berfungsi untuk mencetak atau menampilkan BST secara In-Order.
-  ![3  Tampilan In-Order](https://user-images.githubusercontent.com/66952269/84756469-08ebc300-afed-11ea-8962-35951975ef6b.png)
   
   Pilihan 4 berfungsi untuk mencetak atau menampilkan BST secara Post-Order.
-  ![4  Tampilan Post-Order](https://user-images.githubusercontent.com/66952269/84756475-0a1cf000-afed-11ea-8173-a9c4992c7613.png)
   
   Pilihan 5 berfungsi untuk menghapus node atau bilangan dari BST. Bilangan diinput oleh user. Jika ditemukan, maka 
   bilangan dihapus dari BST (jangan sampai proses penghapusan memutus/merusak struktur BST). Jika tidak ditemukan, tampilkan bahwa 
   bilangan tidak ada dalam BST.
   
-  Apabila Node Ditemukan
-  ![5  Tampilan Menghapus Node Bila Node Ditemukan](https://user-images.githubusercontent.com/66952269/84758223-5ec16a80-afef-11ea-8962-9af37613f62a.png)
-  
-  Apabila Node Tidak Ditemukan
- ![5  Tampilan Menghapus Node Bila Node Tidak Ditemukan](https://user-images.githubusercontent.com/66952269/84758233-6123c480-afef-11ea-8b8e-55adbe7239b1.png)
-  
   Pilihan 6 berfungsi untuk Menghapus seluruh isi BST (reset BST).
-  ![6  Tampilan Reset (Menghapus Seluruh Isi BST)](https://user-images.githubusercontent.com/66952269/84756482-0be6b380-afed-11ea-8ca2-d360eacc0084.png)
   
   Pilihan 7 berfungsi untuk menginput suatu bilangan dan mencarinya ke dalam BST. Jika bilangan ditemukan, tampilkan perkataan 
   “DITEMUKAN”   dan tampilkan juga simpul-simpul yang dilewati untuk menemukan bilangan tersebut. Jika tidak ditemukan, tampilkan 
   perkataan “TIDAK DITEMUKAN".
   
-  Apabila Node Ditemukan
-  ![7  Tampilan Pencarian Node yang Ditemukan](https://user-images.githubusercontent.com/66952269/84756486-0d17e080-afed-11ea-80a2-b443c25849eb.png)
-  
-  Apabila Node Tidak Ditemukan
-  ![7  Tampilan Pencarian Node yang Tidak Ditemukan](https://user-images.githubusercontent.com/66952269/84756492-1012d100-afed-11ea-9639-8e4528c125fc.png)
-  
   Pilihan 8 berfungsi untuk menghitung Node pada BST.
-  ![8  Tampilan Menghitung Jumlah Node](https://user-images.githubusercontent.com/66952269/84756494-1143fe00-afed-11ea-9ea1-5e67f6bf21d9.png)
   
   Pilihan 9 berfungsi untuk menghitung Kedalaman BST.
-  ![9  Tampilan Kedalaman Node](https://user-images.githubusercontent.com/66952269/84756496-12752b00-afed-11ea-80bf-1605e2d7f7be.png)
   
   Pilihan A berfungsi untuk menampilkan nilai terbesar dan terkecil dari BST yang terbentuk.
-  ![A  Tampilan Nilai Terbesar dan Terkecil](https://user-images.githubusercontent.com/66952269/84756499-13a65800-afed-11ea-8238-d6a1e1e48d66.png)
   
   Pilihan x berfungsi untuk Keluar dari program
-  ![x  Tampilan Keluar](https://user-images.githubusercontent.com/66952269/84756515-1608b200-afed-11ea-88e7-68e47d895c7a.png)
   
 # CARA PENGGUNAAN PROGRAM (INPUT/OUTPUT)
 Program ini berbentuk menu yang bisa dipilih, terdapat 11 pilihan pada program yang sudah dijelaskan pada bagian fitur program. 
 
 Cara menggunakan program ini hanya cukup memasukkan angka menu yang ingin dipilih.
+![0Tampilan Awal Program](https://user-images.githubusercontent.com/66952269/84756152-a1ce0e80-afec-11ea-8eb7-8685a6630ae1.png)
+
 
 Pilih 1 untuk insert bilangan baru. Misalnya jika ingin menambahkan bilangan/node baru, masukkan angka 50 lalu tekan enter. Yang terjadi 
 adalah bilangan/node bernilai 50 dijadikan sebagai root dari pohon.
+![1  Tampilan Insert Bilangan](https://user-images.githubusercontent.com/66952269/84756459-05f0d280-afed-11ea-834a-94d834456bc9.png)
 
+Pilih 2 untuk menampilkan/mencetak BST secara Pre-Order
+![2  Tampilan Pre-Order](https://user-images.githubusercontent.com/66952269/84756467-07ba9600-afed-11ea-92fe-3f417ca46391.png)
 
-Pilih 2,3,4 untuk menampilkan/mencetak BST secara Pre-Order, In-Order atau Post-Order
+Pilih 3 untuk menampilkan/mencetak BST secara In-Order
+![3  Tampilan In-Order](https://user-images.githubusercontent.com/66952269/84756469-08ebc300-afed-11ea-8962-35951975ef6b.png)
+
+Pilih 4 untuk menampilkan/mencetak BST secara Post-Order
+![4  Tampilan Post-Order](https://user-images.githubusercontent.com/66952269/84756475-0a1cf000-afed-11ea-8173-a9c4992c7613.png)
 
 Pilih 5 untuk menghapus bilangan/node dari BST. Misalnya jika ingin menghapus bilangan 28, maka masukkan angka 28 terlebih dahulu lalu tekan enter. Maka yang terjadi adalah bilangan 28 telah dihapus dari BST.
 
+  Apabila Node Ditemukan
+  ![5  Tampilan Menghapus Node Bila Node Ditemukan](https://user-images.githubusercontent.com/66952269/84758223-5ec16a80-afef-11ea-8962-9af37613f62a.png)
+  
+  Apabila Node Tidak Ditemukan
+ ![5  Tampilan Menghapus Node Bila Node Tidak Ditemukan](https://user-images.githubusercontent.com/66952269/84758233-6123c480-afef-11ea-8b8e-55adbe7239b1.png)
+
 Pilihan 6 untuk Menghapus seluruh isi BST (reset BST).
+![6  Tampilan Reset (Menghapus Seluruh Isi BST)](https://user-images.githubusercontent.com/66952269/84756482-0be6b380-afed-11ea-8ca2-d360eacc0084.png)
 
 Pilihan 7 berfungsi untuk menginput suatu bilangan dan mencarinya ke dalam BST. Jika bilangan ditemukan, tampilkan perkataan 
 “DITEMUKAN”   dan tampilkan juga simpul-simpul yang dilewati untuk menemukan bilangan tersebut. Jika tidak ditemukan, tampilkan 
 perkataan “TIDAK DITEMUKAN".
 
+Apabila Node Ditemukan
+  ![7  Tampilan Pencarian Node yang Ditemukan](https://user-images.githubusercontent.com/66952269/84756486-0d17e080-afed-11ea-80a2-b443c25849eb.png)
+  
+  Apabila Node Tidak Ditemukan
+  ![7  Tampilan Pencarian Node yang Tidak Ditemukan](https://user-images.githubusercontent.com/66952269/84756492-1012d100-afed-11ea-9639-8e4528c125fc.png)
+
 Pilihan 8 untuk menghitung Node pada BST. Misalnya node yang terdapat pada BST ada 7 node.
+![8  Tampilan Menghitung Jumlah Node](https://user-images.githubusercontent.com/66952269/84756494-1143fe00-afed-11ea-9ea1-5e67f6bf21d9.png)
 
 Pilihan 9 untuk menghitung Kedalaman BST. Misalnya kedalaman BST adalah 2
+![9  Tampilan Kedalaman Node](https://user-images.githubusercontent.com/66952269/84756496-12752b00-afed-11ea-80bf-1605e2d7f7be.png)
 
-Pilihan A  untuk menampilkan nilai terbesar dan terkecil dari BST yang terbentuk. Misalnya node yang terdapat dalam BST ada 50, 22, 80, 34,66, 90, 17,28. Saat memilih pilihan A maka muncul bahwa nilai tertinggi adalah 90 dan nilai terendah adalah 17.
+Pilihan A  untuk menampilkan nilai terbesar dan terkecil dari BST yang terbentuk. Misalnya node yang terdapat dalam BST ada 50, 22, 80, 34,66, 90, 17. Saat memilih pilihan A maka muncul bahwa nilai tertinggi adalah 90 dan nilai terendah adalah 17.
+![A  Tampilan Nilai Terbesar dan Terkecil](https://user-images.githubusercontent.com/66952269/84756499-13a65800-afed-11ea-8238-d6a1e1e48d66.png)
 
 Pilihan x untuk Keluar dari program
+![x  Tampilan Keluar](https://user-images.githubusercontent.com/66952269/84756515-1608b200-afed-11ea-88e7-68e47d895c7a.png)
