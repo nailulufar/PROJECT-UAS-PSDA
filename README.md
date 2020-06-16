@@ -97,10 +97,10 @@ Pilihan 7 berfungsi untuk menginput suatu bilangan dan mencarinya ke dalam BST. 
 perkataan “TIDAK DITEMUKAN".
 
 Apabila Node Ditemukan
-  ![7  Tampilan Pencarian Node yang Ditemukan](https://user-images.githubusercontent.com/66952269/84756486-0d17e080-afed-11ea-80a2-b443c25849eb.png)
+![7  Tampilan Pencarian Node yang Ditemukan](https://user-images.githubusercontent.com/66952269/84759725-510ce480-aff1-11ea-89e7-a7c37743c39e.png)
   
-  Apabila Node Tidak Ditemukan
-  ![7  Tampilan Pencarian Node yang Tidak Ditemukan](https://user-images.githubusercontent.com/66952269/84756492-1012d100-afed-11ea-9639-8e4528c125fc.png)
+Apabila Node Tidak Ditemukan
+![7  Tampilan Pencarian Node yang Tidak Ditemukan](https://user-images.githubusercontent.com/66952269/84759733-523e1180-aff1-11ea-9f0e-2c84e207c012.png)
 
 Pilihan 8 untuk menghitung Node pada BST. Misalnya node yang terdapat pada BST ada 7 node.
 ![8  Tampilan Menghitung Jumlah Node](https://user-images.githubusercontent.com/66952269/84756494-1143fe00-afed-11ea-9ea1-5e67f6bf21d9.png)
