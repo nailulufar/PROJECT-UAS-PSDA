@@ -41,7 +41,7 @@ Program ini terdiri dari beberapa sub-modul (menu/fungsi):
   
   Pilihan 5 untuk Hapus Node
   
-  Pilihan 6 untuk Reset BST
+  Pilihan 6 untuk Hapus Tree
   
   Pilihan 7 untuk Search
   
