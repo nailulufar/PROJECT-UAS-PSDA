@@ -332,7 +332,7 @@ int main()
         printf("[3] Cetak In-Order\n");
         printf("[4] Cetak Post-Order\n");
         printf("[5] Hapus Node\n");
-        printf("[6] Reset BST\n");
+        printf("[6] Hapus Tree\n");
         printf("[7] Search\n");
         printf("[8] Hitung Node pada Tree\n");
         printf("[9] Kedalaman Tree\n");
