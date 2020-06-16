@@ -52,7 +52,7 @@ Program ini terdiri dari beberapa sub-modul (menu/fungsi):
   bilangan dihapus dari BST (jangan sampai proses penghapusan memutus/merusak struktur BST). Jika tidak ditemukan, tampilkan bahwa 
   bilangan tidak ada dalam BST.
   
-  Apabila Nde Ditemukan
+  Apabila Node Ditemukan
   ![5  Tampilan Menghapus Node Bila Node Ditemukan](https://user-images.githubusercontent.com/66952269/84758223-5ec16a80-afef-11ea-8962-9af37613f62a.png)
   
   Apabila Node Tidak Ditemukan
