@@ -69,9 +69,10 @@ Cara menggunakan program ini hanya cukup memasukkan angka menu yang ingin dipili
 Pilih 1 untuk insert bilangan baru. Misalnya jika ingin menambahkan bilangan/node baru, masukkan angka 50 lalu tekan enter. Yang terjadi 
 adalah bilangan/node bernilai 50 dijadikan sebagai root dari pohon.
 
+
 Pilih 2,3,4 untuk menampilkan/mencetak BST secara Pre-Order, In-Order atau Post-Order
 
-Pilih 5 untuk menghapus bilangan/node dari BST. Misalnya jika ingin menghapus bilangan 50, maka masukkan angka 50 terlebih dahulu lalu tekan enter. Maka yang terjadi adalah bilangan 50 telah dihapus dari BST.
+Pilih 5 untuk menghapus bilangan/node dari BST. Misalnya jika ingin menghapus bilangan 28, maka masukkan angka 28 terlebih dahulu lalu tekan enter. Maka yang terjadi adalah bilangan 28 telah dihapus dari BST.
 
 Pilihan 6 untuk Menghapus seluruh isi BST (reset BST).
 
@@ -79,10 +80,10 @@ Pilihan 7 berfungsi untuk menginput suatu bilangan dan mencarinya ke dalam BST. 
 “DITEMUKAN”   dan tampilkan juga simpul-simpul yang dilewati untuk menemukan bilangan tersebut. Jika tidak ditemukan, tampilkan 
 perkataan “TIDAK DITEMUKAN".
 
-Pilihan 8 untuk menghitung Node pada BST. Misalnya node yang terdapat pada BST ada 8 node.
+Pilihan 8 untuk menghitung Node pada BST. Misalnya node yang terdapat pada BST ada 7 node.
 
-Pilihan 9 untuk menghitung Kedalaman BST.
+Pilihan 9 untuk menghitung Kedalaman BST. Misalnya kedalaman BST adalah 2
 
-Pilihan A  untuk menampilkan nilai terbesar dan terkecil dari BST yang terbentuk. Misalnya node yang terdapat dalam BST ada 22, 80, 34,66, 90, 17. Saat memilih pilihan A maka muncul bahwa nilai tertinggi adalah 90 dan nilai terendah adalah 17.
+Pilihan A  untuk menampilkan nilai terbesar dan terkecil dari BST yang terbentuk. Misalnya node yang terdapat dalam BST ada 50, 22, 80, 34,66, 90, 17,28. Saat memilih pilihan A maka muncul bahwa nilai tertinggi adalah 90 dan nilai terendah adalah 17.
 
 Pilihan x untuk Keluar dari program
