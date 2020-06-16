@@ -31,26 +31,30 @@ Project ini dibuat sebagai pengganti UAS pada mata kuliah Praktikum Pengantar St
 # FITUR-FITUR PROGRAM
 Program ini terdiri dari beberapa sub-modul (menu/fungsi):
   
-  Pilihan 1 untuk Insert Bilangan Baru
+  Pilihan 1 berfungsi untuk insert bilangan baru ke dalam BST.
   
-  Pilihan 2 untuk Cetak Pre-Order
+  Pilihan 2 berfungsi untuk mencetak atau menampilkan BST secara Pre-Order.
   
-  Pilihan 3 untuk Cetak In-Order
+  Pilihan 3 berfungsi untuk mencetak atau menampilkan BST secara In-Order.
   
-  Pilihan 4 untuk Cetak Post-Order
+  Pilihan 4 berfungsi untuk mencetak atau menampilkan BST secara Post-Order.
   
-  Pilihan 5 untuk Hapus Node
+  Pilihan 5 berfungsi untuk menghapus node atau bilangan dari BST. Bilangan diinput oleh user. Jika ditemukan, maka 
+  bilangan dihapus dari BST (jangan sampai proses penghapusan memutus/merusak struktur BST). Jika tidak ditemukan, tampilkan bahwa 
+  bilangan tidak ada dalam BST.
   
-  Pilihan 6 untuk Hapus Tree
+  Pilihan 6 berfungsi untuk Menghapus seluruh isi BST (reset BST).
   
-  Pilihan 7 untuk Search
+  Pilihan 7 berfungsi untuk menginput suatu bilangan dan mencarinya ke dalam BST. Jika bilangan ditemukan, tampilkan perkataan 
+  “DITEMUKAN”   dan tampilkan juga simpul-simpul yang dilewati untuk menemukan bilangan tersebut. Jika tidak ditemukan, tampilkan 
+  perkataan “TIDAK DITEMUKAN".
   
-  Pilihan 8 untuk Hitung Node pada Tree
+  Pilihan 8 berfungsi untuk menghitung Node pada BST.
   
-  Pilihan 9 untuk Kedalaman Tree
+  Pilihan 9 berfungsi untuk menghitung Kedalaman BST.
   
-  Pilihan A untuk Value Terbesar dan Terkecil pada Tree
+  Pilihan A berfungsi untuk menampilkan nilai terbesar dan terkecil dari BST yang terbentuk.
   
-  Pilihan X untuk Keluar
+  Pilihan x berfungsi untuk Keluar dari program
   
 # CARA PENGGUNAAN PROGRAM (INPUT/OUTPUT)
